@@ -1,0 +1,18 @@
+,1,,,,,,,1
+competitorname;chocolate;fruity;caramel;peanutyalmondy;nougat;crispedricewafer;hard;bar;pluribus;sugarpercent;pricepercent;winpercent
+Hershey's Milk Chocolate;1;0;0;0;0;0;0;1;0;.43000001;.91799998;.56490
+Hershey's Kisses;1;0;0;0;0;0;0;0;1;.127;.093000002;.55375
+Nerds;0;1;0;0;0;0;1;0;1;.84799999;.32499999;.55354
+Skittles wildberry;0;1;0;0;0;0;0;0;1;.94099998;.22;.55103
+Milk Duds;1;0;1;0;0;0;0;0;1;.30199999;.51099998;.55064
+Swedish Fish;0;1;0;0;0;0;0;0;1;.60399997;.755;.54861
+Mr Good Bar;1;0;0;1;0;0;0;1;0;.31299999;.91799998;.54526
+Lifesavers big ring gummies;0;1;0;0;0;0;0;0;0;.26699999;.27900001;.52911
+Sour Patch Tricksters;0;1;0;0;0;0;0;0;1;.068999998;.116;.52825
+Air Heads;0;1;0;0;0;0;0;0;0;.90600002;.51099998;.52341
+Haribo Sour Bears;0;1;0;0;0;0;0;0;1;.465;.465;.51412
+Almond Joy;1;0;0;1;0;0;0;1;0;.465;.76700002;.50347
+Tootsie Roll Snack Bars;1;0;0;0;0;0;0;1;0;.465;.32499999;.49653
+Whoppers;1;0;0;0;0;1;0;0;1;.87199998;.84799999;.49524
+Tootsie Pop;1;1;0;0;0;0;1;0;0;.60399997;.32499999;.48982
+Mounds;1;0;0;0;0;0;0;1;0;.31299999;.86000001;.47829
