@@ -1,0 +1,19 @@
+Super Mario Odyssey, 3
+Juan Perez, 152, Legal, 2, 500, 1000
+Maria Gomez, 128, Ilegal, 1, 250
+Luis Sanchez, 145, Legal, 3, 300, 500, 700
+The Legend of Zelda: Breath of the Wild, 2
+Ana Rodriguez, 346, Legal, 1, 1000
+Pedro Fernandez, 312, Ilegal, 2, 1500, 500
+Minecraft, 4
+Carlos Lopez, 620, Legal, 2, 200, 300
+Laura Ruiz, 598, Legal, 3, 100, 200, 150
+Pablo Nunez, 540, Ilegal, 1, 250
+Elena Diaz, 670, Legal, 2, 500, 700
+Celeste, 3
+Mario Vargas, 75, Legal, 1, 400
+Lucia Martinez, 80, Ilegal, 2, 600, 300
+Sergio Suarez, 72, Legal, 1, 800
+Hollow Knight, 2
+Andres Reyes, 550, Legal, 2, 900, 1200
+Sara Vega, 610, Ilegal, 1, 1500

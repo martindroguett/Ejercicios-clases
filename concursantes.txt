@@ -1,0 +1,14 @@
+Juan Perez./20./500
+Maria Gomez./18./80
+Luis Sanchez./23./750
+Ana Rodriguez./20./1000
+Pedro Fernandez./21./600
+Carlos Lopez./25./500
+Laura Ruiz./21./800
+Pablo Nunez./22./500
+Elena Diaz./20./750
+Mario Vargas./22./100
+Lucia Martinez./18./50
+Sergio Suarez./19./150
+Andres Reyes./21./1200
+Sara Vega./24./100
