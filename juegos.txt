@@ -1,0 +1,13 @@
+Pedro,god of war,120
+Juan,far cry,50
+Alejandro,god of war,120
+Alejandro,god of war,135
+Manuel,god of war,115
+Pedro,god of war,110
+Pedro,call of duty,30
+Juan,call of duty,20
+Juan,god of war,10
+Juan,far cry,5
+Pedro,god of war,100
+Pedro,far cry,10
+Manuel,call of duty,100
