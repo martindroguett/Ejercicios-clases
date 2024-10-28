@@ -1,0 +1,20 @@
+Boeing,8
+737-800, 2400, 160, 5600,reaccion
+747, 3000, 366, 8000,reaccion
+747-400, 3100, 416, 13450,reaccion
+787-9, 3000, 296, 14140,reaccion
+777-300ER, 3000, 396, 14490,reaccion
+757-200, 2200, 200, 7240,reaccion
+777-200LR, 3050, 317, 15750,reaccion
+787-8, 2900, 242, 13620,reaccion
+Airbus,6
+A320, 2100, 180, 6100,reaccion
+A330, 2800, 293, 13430,reaccion
+ATR-72, 1200, 70, 1500,helice
+A350-900, 2700, 325, 15100,reaccion
+A321neo, 2200, 240, 7400,reaccion
+A330-300, 2900, 277, 11750,reaccion
+Cessna, 3
+Cessna 172, 400, 4, 1285,helice
+Cessna Citation X, 1500, 12, 6100,reaccion
+Citation Excel (Modelo 560XL), 2000, 9, 3000,reaccion
