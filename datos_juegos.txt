@@ -1,0 +1,48 @@
+Lucas, Fortnite, 120
+Marta, Minecraft, 250
+Javier, Call of Duty, 95
+Sofía, League of Legends, 180
+Ana, Overwatch, 210
+Carlos, Apex Legends, 300
+Beatriz, Valorant, 150
+David, FIFA 21, 200
+Valeria, Fortnite, 80
+Luis, Minecraft, 140
+Elena, Call of Duty, 170
+Marcos, League of Legends, 90
+Lorena, Overwatch, 220
+Pedro, Apex Legends, 310
+Claudia, Valorant, 160
+Daniel, FIFA 21, 230
+Andrea, Fortnite, 110
+Fernando, Minecraft, 260
+Gabriela, Call of Duty, 105
+Hugo, League of Legends, 190
+Isabel, Overwatch, 205
+Jorge, Apex Legends, 290
+Karla, Valorant, 145
+Lorenzo, FIFA 21, 215
+Mónica, Fortnite, 75
+Natalia, Minecraft, 135
+Oscar, Call of Duty, 165
+Patricia, League of Legends, 85
+Raúl, Overwatch, 225
+Sara, Apex Legends, 305
+Tomás, Valorant, 155
+Úrsula, FIFA 21, 225
+Verónica, Fortnite, 95
+Ximena, Minecraft, 245
+Yago, Call of Duty, 100
+Zara, League of Legends, 185
+Albert, Overwatch, 195
+Blanca, Apex Legends, 295
+César, Valorant, 165
+Diego, FIFA 21, 210
+Elisa, Fortnite, 130
+Fabián, Minecraft, 255
+Gloria, Call of Duty, 115
+Héctor, League of Legends, 200
+Inés, Overwatch, 215
+Juan, Apex Legends, 270
+Karen, Valorant, 175
+Leo, FIFA 21, 220

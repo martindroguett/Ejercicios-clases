@@ -1,0 +1,32 @@
+Pablo, The Witcher 3, 200
+Laura, Animal Crossing, 150
+Miguel, Red Dead Redemption 2, 180
+Lucía, Sekiro, 220
+Alberto, Cyberpunk 2077, 95
+Carla, Ghost of Tsushima, 130
+Julián, Dark Souls 3, 240
+María, Hades, 170
+Santiago, The Witcher 3, 210
+Elena, Animal Crossing, 120
+Fernando, Red Dead Redemption 2, 300
+Andrea, Sekiro, 160
+Ignacio, Cyberpunk 2077, 100
+Paula, Ghost of Tsushima, 200
+Ricardo, Dark Souls 3, 180
+Mónica, Hades, 190
+Antonio, The Witcher 3, 250
+Patricia, Animal Crossing, 140
+Héctor, Red Dead Redemption 2, 230
+Natalia, Sekiro, 175
+Francisco, Cyberpunk 2077, 110
+Teresa, Ghost of Tsushima, 210
+Raúl, Dark Souls 3, 195
+Isabel, Hades, 160
+Luis, The Witcher 3, 130
+Carmen, Animal Crossing, 175
+Emilio, Red Dead Redemption 2, 220
+Gloria, Sekiro, 200
+Mario, Cyberpunk 2077, 90
+Silvia, Ghost of Tsushima, 140
+Víctor, Dark Souls 3, 250
+Julia, Hades, 130
